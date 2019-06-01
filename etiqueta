@@ -1,8 +1,10 @@
-h1 {
-	colour: blue;
-	background-color: yellow;
-	border: 1px solid black;
-}
-
-p {colour: black;
-}
+<!DOCTYPE HTML>
+<HTML Lang="es">
+<head>
+<title>Etiqueta</title>>
+</head>
+<body>
+<Div>
+<b style="color: green">Etiqueta vac&iacute;a</b>
+</div>
+</body>
